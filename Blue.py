@@ -24,4 +24,3 @@ def print_lyrics():
         print('')
 
 print_lyrics()
-
